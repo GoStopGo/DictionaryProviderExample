@@ -31,4 +31,9 @@
         android:id="@+id/dictionary_text_view"
         />
 
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dictionary_list_view" />
+
 </RelativeLayout>
